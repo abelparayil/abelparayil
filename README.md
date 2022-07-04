@@ -16,11 +16,15 @@ I'm currently an engineering student in Computer Science and Technology at Vello
 
 # 🚀 Some tools I use
 
-![Javascript badge](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg =50x50)     ![html badge](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg =50x50)![css badge](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg =50x50) ![bootstrap badge](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg =50x50) ![node badge](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg =50x50) ![node badge](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg =50x50) ![react badge](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg =50x50)![mongodb badge](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg =50x50)![sql badge](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-plain-wordmark.svg =50x50)
+[![](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg =50x50)](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg) [![](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg =50x50)](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg)[![](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg =50x50)](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg)[![](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg =50x50)](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg)[![](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg =50x50)](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg)[![](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg =50x50)](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg)[![](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg =50x50)](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg)[![](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg =50x50)](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg)[![](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-plain-wordmark.svg =50x50)](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-plain-wordmark.svg)
+
+
 
 
 # 🦸‍♂️ My GitHub Data
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=abelparayil&theme=default)](https://git.io/streak-stats)
 
 [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/abelparayil)](https://git.io/awesome-stats-card)
+
+
 
