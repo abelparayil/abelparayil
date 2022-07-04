@@ -24,6 +24,8 @@ I'm currently an engineering student in Computer Science and Technology at Vello
 
 [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/abelparayil)](https://git.io/awesome-stats-card)
 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" height="50">
+
 
 
 
