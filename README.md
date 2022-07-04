@@ -14,9 +14,7 @@ I'm currently an engineering student in Computer Science and Technology at Vello
 - 🍕 Fun Fact: I love trying different foods.
 
 
-# 🚀 Some tools I use
 
-[![](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg =50x50)](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg) [![](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg =50x50)](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg)[![](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg =50x50)](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg)[![](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg =50x50)](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg)[![](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg =50x50)](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg)[![](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg =50x50)](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg)[![](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg =50x50)](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg)[![](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg =50x50)](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg)[![](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-plain-wordmark.svg =50x50)](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-plain-wordmark.svg)
 
 
 
