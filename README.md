@@ -9,7 +9,7 @@ I'm currently an engineering student in Computer Science and Technology at Vello
 
 - 🧐 I'm currently working on web-development.
 - 📚 Learning about **react.js**, **python** and a bit of **data structures & algorithm**.
-- 👨‍💻 Most of my projects are available on [Github](https://www.github.com/abelparayil)
+- 👨‍💻 Most of my projects are available on [Github](https://github.com/abelparayil?tab=repositories)
 - 💬 Ping me about **javascript**, **mongodb**, and **authentication stuff**.
 - 🍕 Fun Fact: I love trying different foods.
 
