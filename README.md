@@ -7,7 +7,7 @@ I'm currently an engineering student in Computer Science and Technology at Vello
 
 # ⚡ A Few Quick Facts
 
-- 🧐 I'm currently working on [whatsapp-clone] (https://github.com/abelparayil/WhatsApp-Clone).
+- 🧐 I'm currently working on [whatsapp-clone](https://github.com/abelparayil/WhatsApp-Clone).
 - 📚 Learning about **react.js**, **python** and a bit of **data structures & algorithm**.
 - 👨‍💻 Most of my projects are available on [Github](https://github.com/abelparayil?tab=repositories)
 - 💬 Ping me about **javascript**, **mongodb**, and **authentication stuff**.
