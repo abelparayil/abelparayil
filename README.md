@@ -21,7 +21,7 @@ I'm currently an engineering student in Computer Science and Technology at Vello
 # 🦸‍♂️ My GitHub Data
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=abelparayil&theme=default)](https://git.io/streak-stats)
 
-[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/abelparayil)](https://git.io/awesome-stats-card)
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/abelparayil?cardType=github&theme=graywhite)](https://git.io/awesome-stats-card)
 
 
 
