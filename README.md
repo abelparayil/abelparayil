@@ -19,11 +19,19 @@ I'm currently an engineering student in Computer Science and Technology at Vello
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" height="50"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" width="50" height="50"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" width="50" height="50"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="50" height="50"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="50" height="50"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg" width="50" height="50"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" width="50" height="50"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" width="50" height="50"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-plain-wordmark.svg" width="50" height="50"><img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/java/java-original-wordmark.svg" width="50" height="50"><img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/materialui/materialui-original.svg" width="50" height="50">
 
 # 🦸‍♂️ My GitHub Data
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=abelparayil&theme=default)](https://git.io/streak-stats)
+<table><tr><td valign="top" width="33%">
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abelparayil&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=abelparayil&theme=default" align="left" style="width: 100%" />
 
-[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/abelparayil?cardType=github&theme=graywhite)](https://git.io/awesome-stats-card)
+</td><td valign="top" width="33%">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abelparayil&layout=compact" align="left" style="width: 100%" />
+
+</td><td valign="top" width="33%">
+
+<div align="right"><img src="https://awesome-github-stats.azurewebsites.net/user-stats/abelparayil?cardType=github&theme=graywhite" align="right" style="width: 100%" /></div>
+
+</td></tr></table>  
 
 
 
