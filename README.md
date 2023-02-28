@@ -7,10 +7,10 @@ I'm currently an engineering student in Computer Science and Technology at Vello
 
 # ⚡ A Few Quick Facts
 
-- 🧐 I'm currently working on DSA and 100DaysOfCode.
+- 🧐 I'm currently working on DSA and building a cloth store.
 - 📚 Learning about **react.js**, **java** and a bit of **data structures & algorithm**.
 - 👨‍💻 Most of my projects are available on [Github](https://github.com/abelparayil?tab=repositories)
-- 💬 Ping me about **mongodb** and **authentication stuff**.
+- 💬 Ping me about **javascript** and **react stuff**.
 - 🍕 Fun Fact: I love trying different foods.
 
 
