@@ -33,7 +33,11 @@ I'm currently an engineering student in Computer Science and Technology at Vello
 
 </td></tr></table>  
 
+<br/>
 
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=abelparayil&&style=flat-square" align="center" />
+</div>
 
 
 
