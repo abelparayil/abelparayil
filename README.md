@@ -29,13 +29,9 @@ Passionate about building scalable backend systems, modular frontend architectur
 ### 📊 GitHub Data
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abelparayil&theme=radical" alt="GitHub Streak" height="150" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://awesome-github-stats.azurewebsites.net/user-stats/abelparayil?cardType=github&theme=radical" alt="General Stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abelparayil&theme=radical" alt="GitHub Streak" height="165" />
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://awesome-github-stats.azurewebsites.net/user-stats/abelparayil?cardType=github&theme=radical" alt="General Stats" height="165" />
 </div>
 
 <br/>
