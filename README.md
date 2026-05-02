@@ -1,45 +1,52 @@
-# Hey 👋, I'm Abel
+# Hi there, I'm Abel 👋
 
-I'm currently an engineering student in Computer Science and Technology at Vellore Institute of Technology, Bhopal and also aws cloud practitioner certified. I am also working on some side projects, learning full-stack web development, and trying to create a playlist of 90's rock band.
+**Software Engineer @ PPLIO**
 
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abel-abraham-b93b61142/) [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/abelparayil) [![Gmail BDGE](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=abelparayilabraham@gmail.com) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/abelparayil)
+Passionate about building scalable backend systems, modular frontend architectures, and occasionally venturing into the world of Browser Extensions. 
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abel-abraham-b93b61142/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/abelparayil)
 
-# ⚡ A Few Quick Facts
+---
 
-- 🧐 I'm currently working on DSA and building a cloth store.
-- 📚 Learning about **react.js**, **java** and a bit of **data structures & algorithm**.
-- 👨‍💻 Most of my projects are available on [Github](https://github.com/abelparayil?tab=repositories)
-- 💬 Ping me about **javascript** and **react stuff**.
-- 🍕 Fun Fact: I love trying different foods.
+### 🚀 At a Glance
 
+- 👨‍💻 **Currently:** Building robust enterprise solutions with **.NET Core** and **Angular** at PPLIO.
+- 🧩 **Specialty:** Developing modular **Browser Extensions** for productivity and tracking.
+- 📦 **Work in Progress:** Building a specialized nurse shift schduler.
+- 🎬 **Vibe:** Watch movies until I get fatigue.
 
-# 🚀 Some tools I use
+### 🛠️ Tech Stack & Tools
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" height="50"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" width="50" height="50"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" width="50" height="50"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="50" height="50"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="50" height="50"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg" width="50" height="50"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" width="50" height="50"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" width="50" height="50"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-plain-wordmark.svg" width="50" height="50"><img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/java/java-original-wordmark.svg" width="50" height="50"><img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/materialui/materialui-original.svg" width="50" height="50">
+| Category | Technologies |
+| :--- | :--- |
+| **Languages & Frameworks** | `.NET Core`, `C#`, `Angular`, `React.js`, `Java`, `Node.js` |
+| **Frontend & UI** | `JavaScript (ES6+)`, `TypeScript`, `Material UI`, `Bootstrap`, `HTML5/CSS3` |
+| **Cloud & Databases** | `MSSQL`, `PostgreSQL`, `MongoDB`, `SQLite` |
+| **Development** | `Git`, `Browser Extension API`, `Express.js`, `RESTful APIs` |
 
-# 🦸‍♂️ My GitHub Data
-<table><tr><td valign="top" width="33%">
+---
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=abelparayil&theme=default" align="left" style="width: 100%" />
+### 📊 GitHub Data
 
-</td><td valign="top" width="33%">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abelparayil&layout=compact" align="left" style="width: 100%" />
-
-</td><td valign="top" width="33%">
-
-<div align="right"><img src="https://awesome-github-stats.azurewebsites.net/user-stats/abelparayil?cardType=github&theme=graywhite" align="right" style="width: 100%" /></div>
-
-</td></tr></table>  
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abelparayil&theme=radical" alt="GitHub Streak" height="150" />
+</div>
 
 <br/>
 
 <div align="center">
-<img src="https://komarev.com/ghpvc/?username=abelparayil&&style=flat-square" align="center" />
+  <img src="https://awesome-github-stats.azurewebsites.net/user-stats/abelparayil?cardType=github&theme=radical" alt="General Stats" width="48%" />
 </div>
 
+<br/>
 
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=abelparayil&color=blueviolet&style=flat-square" alt="Profile Views" />
+</div>
 
+---
 
+### 💬 Let's Connect
+I'm always open to discussing **.NET architectures**, **Angular patterns**, **Chrome Extension development**, or why Wall-E should have a higher Rotten Tomatoes score.
 
+- 📧 [abelabr321@gmail.com](mailto:abelabr321@gmail.com)
